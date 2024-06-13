@@ -1,0 +1,550 @@
+{
+    "pokemon": [
+        {
+            "species": "Venusaur",
+            "type": ["GRASS", "POISON"],
+            "BaseStats": {
+                "HP": 80,
+                "ATK": 82,
+                "DEF": 83,
+                "SPD": 80,
+                "SATK": 100,
+                "SDEF": 100
+            }
+            
+        },
+
+        {
+            "species": "Vileplume",
+            "type": ["GRASS", "POISON"],
+            "BaseStats": {
+                "HP": 75,
+                "ATK": 80,
+                "DEF": 85,
+                "SPD": 50,
+                "SATK": 110,
+                "SDEF": 90
+            }
+            
+        },
+
+        {
+            "species": "Blastoise",
+            "type": ["WATER", "NONE"],
+            "BaseStats": {
+                "HP": 79,
+                "ATK": 83,
+                "DEF": 100,
+                "SPD": 78,
+                "SATK": 85,
+                "SDEF": 105
+            }
+            
+        },
+
+        {
+            "species": "Gyarados",
+            "type": ["WATER", "FLYING"],
+            "BaseStats": {
+                "HP": 95,
+                "ATK": 125,
+                "DEF": 79,
+                "SPD": 81,
+                "SATK": 60,
+                "SDEF": 100
+            }
+            
+        },
+
+        {
+            "species": "Charizard",
+            "type": ["FIRE", "FLYING"],
+            "BaseStats": {
+                "HP": 78,
+                "ATK": 84,
+                "DEF": 78,
+                "SPD": 100,
+                "SATK": 109,
+                "SDEF": 85
+            }
+            
+        },
+
+        {
+            "species": "Arcanine",
+            "type": ["FIRE", "NONE"],
+            "BaseStats": {
+                "HP": 90,
+                "ATK": 110,
+                "DEF": 80,
+                "SPD": 95,
+                "SATK": 100,
+                "SDEF": 80
+            }
+            
+        },
+
+        {
+            "species": "Alakazam",
+            "type": ["PSYCHIC", "NONE"],
+            "BaseStats": {
+                "HP": 55,
+                "ATK": 50,
+                "DEF": 45,
+                "SPD": 120,
+                "SATK": 135,
+                "SDEF": 95
+            }
+            
+        },
+
+        {
+            "species": "Exeggutor",
+            "type": ["PSYCHIC", "GRASS"],
+            "BaseStats": {
+                "HP": 95,
+                "ATK": 95,
+                "DEF": 85,
+                "SPD": 55,
+                "SATK": 125,
+                "SDEF": 65
+            }
+            
+        },
+
+        {
+            "species": "Butterfree",
+            "type": ["BUG", "FLYING"],
+            "BaseStats": {
+                "HP": 60,
+                "ATK": 45,
+                "DEF": 50,
+                "SPD": 70,
+                "SATK": 90,
+                "SDEF": 80
+            }
+            
+        },
+
+        {
+            "species": "Beedrill",
+            "type": ["BUG", "FLYING"],
+            "BaseStats": {
+                "HP": 65,
+                "ATK": 90,
+                "DEF": 40,
+                "SPD": 75,
+                "SATK": 45,
+                "SDEF": 80
+            }
+            
+        },
+
+        {
+            "species": "Pikachu",
+            "type": ["ELECTRIC", "NONE"],
+            "BaseStats": {
+                "HP": 35,
+                "ATK": 55,
+                "DEF": 40,
+                "SPD": 110,
+                "SATK": 95,
+                "SDEF": 50
+            }
+            
+        },
+
+        {
+            "species": "Magneton",
+            "type": ["ELECTRIC", "NONE"],
+            "BaseStats": {
+                "HP": 50,
+                "ATK": 60,
+                "DEF": 95,
+                "SPD": 70,
+                "SATK": 120,
+                "SDEF": 70
+            }
+        
+        },
+
+        {
+            "species": "Pidgeot",
+            "type": ["FLYING", "NORMAL"],
+            "BaseStats": {
+                "HP": 83,
+                "ATK": 80,
+                "DEF": 75,
+                "SPD": 101,
+                "SATK": 70,
+                "SDEF": 70
+            }
+            
+        },
+
+        {
+            "species": "Fearow",
+            "type": ["FLYING", "NORMAL"],
+            "BaseStats": {
+                "HP": 65,
+                "ATK": 90,
+                "DEF": 65,
+                "SPD": 100,
+                "SATK": 61,
+                "SDEF": 61
+            }
+            
+        },
+
+        {
+            "species": "Golem",
+            "type": ["ROCK", "GROUND"],
+            "BaseStats": {
+                "HP": 80,
+                "ATK": 120,
+                "DEF": 130,
+                "SPD": 45,
+                "SATK": 55,
+                "SDEF": 65
+            }
+            
+        },
+        {
+            "species": "Onix",
+            "type": ["ROCK", "GROUND"],
+            "BaseStats": {
+                "HP": 35,
+                "ATK": 45,
+                "DEF": 160,
+                "SPD": 70,
+                "SATK": 30,
+                "SDEF": 45
+            }
+            
+        },
+
+        {
+            "species": "Hitmonlee",
+            "type": ["FIGHTING", "NONE"],
+            "BaseStats": {
+                "HP": 50,
+                "ATK": 120,
+                "DEF": 53,
+                "SPD": 87,
+                "SATK": 35,
+                "SDEF": 110
+            }
+            
+        },
+        {
+            "species": "Hitmonchan",
+            "type": ["FIGHTING", "NONE"],
+            "BaseStats": {
+                "HP": 50,
+                "ATK": 105,
+                "DEF": 79,
+                "SPD": 76,
+                "SATK": 35,
+                "SDEF": 110
+            }
+            
+        },
+
+        {
+            "species": "Tauros",
+            "type": ["NORMAL", "NONE"],
+            "BaseStats": {
+                "HP": 75,
+                "ATK": 100,
+                "DEF": 95,
+                "SPD": 100,
+                "SATK": 40,
+                "SDEF": 70
+            }
+            
+        },
+        {
+            "species": "Raticate",
+            "type": ["NORMAL", "NONE"],
+            "BaseStats": {
+                "HP": 55,
+                "ATK": 81,
+                "DEF": 60,
+                "SPD": 97,
+                "SATK": 50,
+                "SDEF": 70
+            }
+            
+        },
+
+        {
+            "species": "Gengar",
+            "type": ["GHOST", "POISON"],
+            "BaseStats": {
+                "HP": 60,
+                "ATK": 65,
+                "DEF": 60,
+                "SPD": 110,
+                "SATK": 130,
+                "SDEF": 75
+            }
+            
+        },
+        {
+            "species": "Dusclops",
+            "type": ["GHOST", "NONE"],
+            "BaseStats": {
+                "HP": 40,
+                "ATK": 70,
+                "DEF": 130,
+                "SPD": 25,
+                "SATK": 60,
+                "SDEF": 130
+            }
+        
+        },
+
+        {
+            "species": "Sandslash",
+            "type": ["GROUND", "NONE"],
+            "BaseStats": {
+                "HP": 75,
+                "ATK": 100,
+                "DEF": 110,
+                "SPD": 65,
+                "SATK": 45,
+                "SDEF": 55
+            }
+            
+        },
+        {
+            "species": "Dugtrio",
+            "type": ["GROUND", "NONE"],
+            "BaseStats": {
+                "HP": 35,
+                "ATK": 80,
+                "DEF": 50,
+                "SPD": 120,
+                "SATK": 50,
+                "SDEF": 70
+            }
+            
+        },
+
+        {
+            "species": "Muk",
+            "type": ["POISON", "NONE"],
+            "BaseStats": {
+                "HP": 105,
+                "ATK": 105,
+                "DEF": 75,
+                "SPD": 50,
+                "SATK": 65,
+                "SDEF": 100
+            }
+            
+        },
+        {
+            "species": "Weezing",
+            "type": ["POISON", "NONE"],
+            "BaseStats": {
+                "HP": 65,
+                "ATK": 90,
+                "DEF": 120,
+                "SPD": 60,
+                "SATK": 85,
+                "SDEF": 70
+            }
+            
+        },
+
+        {
+            "species": "Lapras",
+            "type": ["ICE", "WATER"],
+            "BaseStats": {
+                "HP": 130,
+                "ATK": 85,
+                "DEF": 80,
+                "SPD": 60,
+                "SATK": 85,
+                "SDEF": 95
+            }
+            
+        },
+        {
+            "species": "Cloyster",
+            "type": ["ICE", "WATER"],
+            "BaseStats": {
+                "HP": 50,
+                "ATK": 95,
+                "DEF": 180,
+                "SPD": 70,
+                "SATK": 85,
+                "SDEF": 45
+            }
+            
+        },
+
+        {
+            "species": "Dragonite",
+            "type": ["DRAGON", "FLYING"],
+            "BaseStats": {
+                "HP": 91,
+                "ATK": 134,
+                "DEF": 95,
+                "SPD": 80,
+                "SATK": 100,
+                "SDEF": 100
+            }
+            
+        },
+
+        {
+            "species": "Kingdra",
+            "type": ["DRAGON", "WATER"],
+            "BaseStats": {
+                "HP": 75,
+                "ATK": 95,
+                "DEF": 95,
+                "SPD": 85,
+                "SATK": 95,
+                "SDEF": 95
+            }
+            
+        }
+        
+    ],
+
+    
+    "types": [
+        {
+            "typing": "NONE",
+            "resisted": [],
+            "weakedto": [],
+            "neutral": ["WATER","GROUND","ROCK","FIRE","GRASS","ICE","BUG","PSYCHIC","ELECTRIC","FLYING","FIGHTING","POISON","NORMAL","DRAGON","GHOST"],
+            "immue": []
+        },
+
+        {
+            "typing": "FIRE",
+            "resisted": ["FIRE","GRASS","ICE","BUG"],
+            "weakedto": ["WATER","GROUND","ROCK"],
+            "neutral": ["PSYCHIC","ELECTRIC","FLYING","FIGHTING","POISON","NORMAL","DRAGON","GHOST"],
+            "immue": []
+        },
+
+        {
+            "typing": "WATER",
+            "resisted": ["WATER","FIRE","ICE"],
+            "weakedto": ["GRASS","ELECTRIC"],
+            "neutral": ["GROUND","ROCK","BUG","PSYCHIC","FLYING","FIGHTING","POISON","NORMAL","DRAGON","GHOST"],
+            "immue": []
+        },
+
+        
+        { 
+            "typing": "GRASS",
+            "resisted": ["WATER","GRASS","ELECTRIC","GROUND"],
+            "weakedto": ["FIRE","ICE","BUG","FLYING","POISON"],
+            "neutral": ["ROCK","PSYCHIC","FIGHTING","NORMAL","DRAGON","GHOST"],
+            "immue": []
+
+        },
+
+        {
+            "typing": "PSYCHIC",
+            "resisted": ["PSYCHIC","FIGHTING"],
+            "weakedto": ["BUG","GHOST"],
+            "neutral": ["WATER","GROUND","ROCK","FIRE","GRASS","ICE","ELECTRIC","FLYING","POISON","NORMAL","DRAGON"],
+            "immue": []
+        },
+
+        {
+            "typing": "ELECTRIC",
+            "resisted": ["ELECTRIC","FLYING"],
+            "weakedto": ["GROUND"],
+            "neutral": ["WATER","ROCK","FIRE","GRASS","ICE","BUG","PSYCHIC","FIGHTING","POISON","NORMAL","DRAGON","GHOST"],
+            "immue": []
+        },
+
+        {
+            "typing": "BUG",
+            "resisted": ["GRASS","GROUND","FIGHTING"],
+            "weakedto": ["ROCK","FIRE","FLYING"],
+            "neutral": ["WATER","ICE","BUG","PSYCHIC","ELECTRIC","POISON","NORMAL","DRAGON","GHOST"],
+            "immue": []
+        },
+
+        {
+            "typing": "FLYING",
+            "resisted": ["GRASS","FIGHTING","BUG"],
+            "weakedto": ["ICE","ELECTRIC","ROCK"],
+            "neutral": ["WATER","FIRE","PSYCHIC","FLYING","POISON","NORMAL","DRAGON","GHOST"],
+            "immue": ["GROUND"]
+        },
+
+        {
+            "typing": "ROCK",
+            "resisted": ["NORMAL","FIRE","FLYING","POISON"],
+            "weakedto": ["WATER","GROUND","GRASS","FIGHTING"],
+            "neutral": ["ROCK","ICE","BUG","PSYCHIC","ELECTRIC","DRAGON","GHOST"]
+
+        },
+
+        {
+            "typing": "NORMAL",
+            "resisted": [],
+            "weakedto": ["FIGHTING"],
+            "neutral": ["WATER","GROUND","ROCK","FIRE","GRASS","ICE","BUG","PSYCHIC","ELECTRIC","FLYING","POISON","NORMAL","DRAGON"],
+            "immue": ["GHOST"]
+        },
+
+        {
+            "typing": "FIGHTING",
+            "resisted": ["BUG","ROCK"],
+            "weakedto": ["PSYCHIC","FLYING"],
+            "neutral": ["WATER","GROUND","FIRE","GRASS","ICE","ELECTRIC","FIGHTING","POISON","NORMAL","DRAGON","GHOST"],
+            "immue": []
+        },
+
+        {
+            "typing": "GHOST",
+            "resisted": ["BUG","POISON"],
+            "weakedto": ["GHOST"],
+            "neutral": ["WATER","GROUND","ROCK","FIRE","GRASS","ICE","PSYCHIC","ELECTRIC","FLYING","DRAGON"],
+            "immue": ["FIGHTING","NORMAL"]
+        },
+
+        {
+            "typing": "GROUND",
+            "resisted": ["ROCK","POISON"],
+            "weakedto": ["WATER","GRASS","ICE"],
+            "neutral": ["GROUND","FIRE","BUG","PSYCHIC","FLYING","FIGHTING","NORMAL","DRAGON","GHOST"],
+            "immue": ["ELECTRIC"]
+        },
+
+        {
+            "typing": "POISON",
+            "resisted": ["GRASS","FIGHTING","POISON","BUG"],
+            "weakedto": ["GROUND","PSYCHIC"],
+            "neutral": ["WATER","ROCK","FIRE","ICE","ELECTRIC","FLYING","NORMAL","DRAGON","GHOST"],
+            "immue": []
+        },
+
+        {
+            "typing": "ICE",
+            "resisted": ["ICE"],
+            "weakedto": ["ROCK","FIRE","GROUND"],
+            "neutral": ["WATER","GRASS","BUG","PSYCHIC","ELECTRIC","FLYING","FIGHTING","POISON","NORMAL","DRAGON","GHOST"],
+            "immue": []
+        },
+
+        {
+            "typing": "DRAGON",
+            "resisted": ["WATER","FIRE","GRASS","ELECTRIC"],
+            "weakedto": ["ICE","DRAGON"],
+            "neutral": ["GROUND","ROCK","BUG","PSYCHIC","FLYING","FIGHTING","POISON","NORMAL","GHOST"],
+            "immue": []
+        }
+    ]
+}

@@ -1,0 +1,1134 @@
+{
+	"users": [
+		{
+			"username": "player1",
+			"password": "9uCh4qxBlFqap_-KiqoM68EqO8yYGpKa1c-BCgkOEa4=",
+			"pokemonsOwned": [
+				{
+					"species": "Charizard",
+					"type": null,
+					"BaseStats": {
+						"HP": 0,
+						"ATK": 0,
+						"DEF": 0,
+						"SPD": 0,
+						"SATK": 0,
+						"SDEF": 0
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Alakazam",
+					"type": null,
+					"BaseStats": {
+						"HP": 0,
+						"ATK": 0,
+						"DEF": 0,
+						"SPD": 0,
+						"SATK": 0,
+						"SDEF": 0
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Magneton",
+					"type": null,
+					"BaseStats": {
+						"HP": 0,
+						"ATK": 0,
+						"DEF": 0,
+						"SPD": 0,
+						"SATK": 0,
+						"SDEF": 0
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Pidgeot",
+					"type": null,
+					"BaseStats": {
+						"HP": 0,
+						"ATK": 0,
+						"DEF": 0,
+						"SPD": 0,
+						"SATK": 0,
+						"SDEF": 0
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Golem",
+					"type": null,
+					"BaseStats": {
+						"HP": 0,
+						"ATK": 0,
+						"DEF": 0,
+						"SPD": 0,
+						"SATK": 0,
+						"SDEF": 0
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Hitmonlee",
+					"type": null,
+					"BaseStats": {
+						"HP": 0,
+						"ATK": 0,
+						"DEF": 0,
+						"SPD": 0,
+						"SATK": 0,
+						"SDEF": 0
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Golem",
+					"type": [
+						"ROCK",
+						"GROUND"
+					],
+					"BaseStats": {
+						"HP": 80,
+						"ATK": 120,
+						"DEF": 130,
+						"SPD": 45,
+						"SATK": 55,
+						"SDEF": 65
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Raticate",
+					"type": [
+						"NORMAL",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 55,
+						"ATK": 81,
+						"DEF": 60,
+						"SPD": 97,
+						"SATK": 50,
+						"SDEF": 70
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Cloyster",
+					"type": [
+						"ICE",
+						"WATER"
+					],
+					"BaseStats": {
+						"HP": 50,
+						"ATK": 95,
+						"DEF": 180,
+						"SPD": 70,
+						"SATK": 85,
+						"SDEF": 45
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Cloyster",
+					"type": [
+						"ICE",
+						"WATER"
+					],
+					"BaseStats": {
+						"HP": 50,
+						"ATK": 95,
+						"DEF": 180,
+						"SPD": 70,
+						"SATK": 85,
+						"SDEF": 45
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Hitmonchan",
+					"type": [
+						"FIGHTING",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 50,
+						"ATK": 105,
+						"DEF": 79,
+						"SPD": 76,
+						"SATK": 35,
+						"SDEF": 110
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Magneton",
+					"type": [
+						"ELECTRIC",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 50,
+						"ATK": 60,
+						"DEF": 95,
+						"SPD": 70,
+						"SATK": 120,
+						"SDEF": 70
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Hitmonlee",
+					"type": [
+						"FIGHTING",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 50,
+						"ATK": 120,
+						"DEF": 53,
+						"SPD": 87,
+						"SATK": 35,
+						"SDEF": 110
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Venusaur",
+					"type": [
+						"GRASS",
+						"POISON"
+					],
+					"BaseStats": {
+						"HP": 80,
+						"ATK": 82,
+						"DEF": 83,
+						"SPD": 80,
+						"SATK": 100,
+						"SDEF": 100
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Hitmonlee",
+					"type": [
+						"FIGHTING",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 50,
+						"ATK": 120,
+						"DEF": 53,
+						"SPD": 87,
+						"SATK": 35,
+						"SDEF": 110
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Lapras",
+					"type": [
+						"ICE",
+						"WATER"
+					],
+					"BaseStats": {
+						"HP": 130,
+						"ATK": 85,
+						"DEF": 80,
+						"SPD": 60,
+						"SATK": 85,
+						"SDEF": 95
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Gengar",
+					"type": [
+						"GHOST",
+						"POISON"
+					],
+					"BaseStats": {
+						"HP": 60,
+						"ATK": 65,
+						"DEF": 60,
+						"SPD": 110,
+						"SATK": 130,
+						"SDEF": 75
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Charizard",
+					"type": [
+						"FIRE",
+						"FLYING"
+					],
+					"BaseStats": {
+						"HP": 78,
+						"ATK": 84,
+						"DEF": 78,
+						"SPD": 100,
+						"SATK": 109,
+						"SDEF": 85
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Dugtrio",
+					"type": [
+						"GROUND",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 35,
+						"ATK": 80,
+						"DEF": 50,
+						"SPD": 120,
+						"SATK": 50,
+						"SDEF": 70
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Magneton",
+					"type": [
+						"ELECTRIC",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 50,
+						"ATK": 60,
+						"DEF": 95,
+						"SPD": 70,
+						"SATK": 120,
+						"SDEF": 70
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Dragonite",
+					"type": [
+						"DRAGON",
+						"FLYING"
+					],
+					"BaseStats": {
+						"HP": 91,
+						"ATK": 134,
+						"DEF": 95,
+						"SPD": 80,
+						"SATK": 100,
+						"SDEF": 100
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Alakazam",
+					"type": [
+						"PSYCHIC",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 55,
+						"ATK": 50,
+						"DEF": 45,
+						"SPD": 120,
+						"SATK": 135,
+						"SDEF": 95
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Vileplume",
+					"type": [
+						"GRASS",
+						"POISON"
+					],
+					"BaseStats": {
+						"HP": 75,
+						"ATK": 80,
+						"DEF": 85,
+						"SPD": 50,
+						"SATK": 110,
+						"SDEF": 90
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Arcanine",
+					"type": [
+						"FIRE",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 90,
+						"ATK": 110,
+						"DEF": 80,
+						"SPD": 95,
+						"SATK": 100,
+						"SDEF": 80
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Dusclops",
+					"type": [
+						"GHOST",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 40,
+						"ATK": 70,
+						"DEF": 130,
+						"SPD": 25,
+						"SATK": 60,
+						"SDEF": 130
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Butterfree",
+					"type": [
+						"BUG",
+						"FLYING"
+					],
+					"BaseStats": {
+						"HP": 60,
+						"ATK": 45,
+						"DEF": 50,
+						"SPD": 70,
+						"SATK": 90,
+						"SDEF": 80
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Butterfree",
+					"type": [
+						"BUG",
+						"FLYING"
+					],
+					"BaseStats": {
+						"HP": 60,
+						"ATK": 45,
+						"DEF": 50,
+						"SPD": 70,
+						"SATK": 90,
+						"SDEF": 80
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Dusclops",
+					"type": [
+						"GHOST",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 40,
+						"ATK": 70,
+						"DEF": 130,
+						"SPD": 25,
+						"SATK": 60,
+						"SDEF": 130
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Hitmonchan",
+					"type": [
+						"FIGHTING",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 50,
+						"ATK": 105,
+						"DEF": 79,
+						"SPD": 76,
+						"SATK": 35,
+						"SDEF": 110
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Kingdra",
+					"type": [
+						"DRAGON",
+						"WATER"
+					],
+					"BaseStats": {
+						"HP": 75,
+						"ATK": 95,
+						"DEF": 95,
+						"SPD": 85,
+						"SATK": 95,
+						"SDEF": 95
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Sandslash",
+					"type": [
+						"GROUND",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 75,
+						"ATK": 100,
+						"DEF": 110,
+						"SPD": 65,
+						"SATK": 45,
+						"SDEF": 55
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Lapras",
+					"type": [
+						"ICE",
+						"WATER"
+					],
+					"BaseStats": {
+						"HP": 130,
+						"ATK": 85,
+						"DEF": 80,
+						"SPD": 60,
+						"SATK": 85,
+						"SDEF": 95
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Charizard",
+					"type": [
+						"FIRE",
+						"FLYING"
+					],
+					"BaseStats": {
+						"HP": 78,
+						"ATK": 84,
+						"DEF": 78,
+						"SPD": 100,
+						"SATK": 109,
+						"SDEF": 85
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Blastoise",
+					"type": [
+						"WATER",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 79,
+						"ATK": 83,
+						"DEF": 100,
+						"SPD": 78,
+						"SATK": 85,
+						"SDEF": 105
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Arcanine",
+					"type": [
+						"FIRE",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 90,
+						"ATK": 110,
+						"DEF": 80,
+						"SPD": 95,
+						"SATK": 100,
+						"SDEF": 80
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Hitmonlee",
+					"type": [
+						"FIGHTING",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 50,
+						"ATK": 120,
+						"DEF": 53,
+						"SPD": 87,
+						"SATK": 35,
+						"SDEF": 110
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Lapras",
+					"type": [
+						"ICE",
+						"WATER"
+					],
+					"BaseStats": {
+						"HP": 130,
+						"ATK": 85,
+						"DEF": 80,
+						"SPD": 60,
+						"SATK": 85,
+						"SDEF": 95
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Onix",
+					"type": [
+						"ROCK",
+						"GROUND"
+					],
+					"BaseStats": {
+						"HP": 35,
+						"ATK": 45,
+						"DEF": 160,
+						"SPD": 70,
+						"SATK": 30,
+						"SDEF": 45
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Cloyster",
+					"type": [
+						"ICE",
+						"WATER"
+					],
+					"BaseStats": {
+						"HP": 50,
+						"ATK": 95,
+						"DEF": 180,
+						"SPD": 70,
+						"SATK": 85,
+						"SDEF": 45
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Cloyster",
+					"type": [
+						"ICE",
+						"WATER"
+					],
+					"BaseStats": {
+						"HP": 50,
+						"ATK": 95,
+						"DEF": 180,
+						"SPD": 70,
+						"SATK": 85,
+						"SDEF": 45
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Muk",
+					"type": [
+						"POISON",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 105,
+						"ATK": 105,
+						"DEF": 75,
+						"SPD": 50,
+						"SATK": 65,
+						"SDEF": 100
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Sandslash",
+					"type": [
+						"GROUND",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 75,
+						"ATK": 100,
+						"DEF": 110,
+						"SPD": 65,
+						"SATK": 45,
+						"SDEF": 55
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Onix",
+					"type": [
+						"ROCK",
+						"GROUND"
+					],
+					"BaseStats": {
+						"HP": 35,
+						"ATK": 45,
+						"DEF": 160,
+						"SPD": 70,
+						"SATK": 30,
+						"SDEF": 45
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Charizard",
+					"type": [
+						"FIRE",
+						"FLYING"
+					],
+					"BaseStats": {
+						"HP": 78,
+						"ATK": 84,
+						"DEF": 78,
+						"SPD": 100,
+						"SATK": 109,
+						"SDEF": 85
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Pidgeot",
+					"type": [
+						"FLYING",
+						"NORMAL"
+					],
+					"BaseStats": {
+						"HP": 83,
+						"ATK": 80,
+						"DEF": 75,
+						"SPD": 101,
+						"SATK": 70,
+						"SDEF": 70
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Weezing",
+					"type": [
+						"POISON",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 65,
+						"ATK": 90,
+						"DEF": 120,
+						"SPD": 60,
+						"SATK": 85,
+						"SDEF": 70
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Raticate",
+					"type": [
+						"NORMAL",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 55,
+						"ATK": 81,
+						"DEF": 60,
+						"SPD": 97,
+						"SATK": 50,
+						"SDEF": 70
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Onix",
+					"type": [
+						"ROCK",
+						"GROUND"
+					],
+					"BaseStats": {
+						"HP": 35,
+						"ATK": 45,
+						"DEF": 160,
+						"SPD": 70,
+						"SATK": 30,
+						"SDEF": 45
+					},
+					"level": 1,
+					"Exp": 0
+				}
+			],
+			"XPOS": -1,
+			"YPOS": -1
+		},
+		{
+			"username": "player2",
+			"password": "9uCh4qxBlFqap_-KiqoM68EqO8yYGpKa1c-BCgkOEa4=",
+			"pokemonsOwned": [
+				{
+					"species": "Blastoise",
+					"type": null,
+					"BaseStats": {
+						"HP": 0,
+						"ATK": 0,
+						"DEF": 0,
+						"SPD": 0,
+						"SATK": 0,
+						"SDEF": 0
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Gengar",
+					"type": null,
+					"BaseStats": {
+						"HP": 0,
+						"ATK": 0,
+						"DEF": 0,
+						"SPD": 0,
+						"SATK": 0,
+						"SDEF": 0
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Dragonite",
+					"type": null,
+					"BaseStats": {
+						"HP": 0,
+						"ATK": 0,
+						"DEF": 0,
+						"SPD": 0,
+						"SATK": 0,
+						"SDEF": 0
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Lapras",
+					"type": null,
+					"BaseStats": {
+						"HP": 0,
+						"ATK": 0,
+						"DEF": 0,
+						"SPD": 0,
+						"SATK": 0,
+						"SDEF": 0
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Fearow",
+					"type": null,
+					"BaseStats": {
+						"HP": 0,
+						"ATK": 0,
+						"DEF": 0,
+						"SPD": 0,
+						"SATK": 0,
+						"SDEF": 0
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Muk",
+					"type": [
+						"POISON",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 105,
+						"ATK": 105,
+						"DEF": 75,
+						"SPD": 50,
+						"SATK": 65,
+						"SDEF": 100
+					},
+					"level": 1,
+					"Exp": 0
+				}
+			],
+			"XPOS": -1,
+			"YPOS": -1
+		},
+		{
+			"username": "player3",
+			"password": "9uCh4qxBlFqap_-KiqoM68EqO8yYGpKa1c-BCgkOEa4=",
+			"pokemonsOwned": [
+				{
+					"species": "Raticate",
+					"type": [
+						"NORMAL",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 55,
+						"ATK": 81,
+						"DEF": 60,
+						"SPD": 97,
+						"SATK": 50,
+						"SDEF": 70
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Raticate",
+					"type": [
+						"NORMAL",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 55,
+						"ATK": 81,
+						"DEF": 60,
+						"SPD": 97,
+						"SATK": 50,
+						"SDEF": 70
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Hitmonlee",
+					"type": [
+						"FIGHTING",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 50,
+						"ATK": 120,
+						"DEF": 53,
+						"SPD": 87,
+						"SATK": 35,
+						"SDEF": 110
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Muk",
+					"type": [
+						"POISON",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 105,
+						"ATK": 105,
+						"DEF": 75,
+						"SPD": 50,
+						"SATK": 65,
+						"SDEF": 100
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Muk",
+					"type": [
+						"POISON",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 105,
+						"ATK": 105,
+						"DEF": 75,
+						"SPD": 50,
+						"SATK": 65,
+						"SDEF": 100
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Golem",
+					"type": [
+						"ROCK",
+						"GROUND"
+					],
+					"BaseStats": {
+						"HP": 80,
+						"ATK": 120,
+						"DEF": 130,
+						"SPD": 45,
+						"SATK": 55,
+						"SDEF": 65
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Muk",
+					"type": [
+						"POISON",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 105,
+						"ATK": 105,
+						"DEF": 75,
+						"SPD": 50,
+						"SATK": 65,
+						"SDEF": 100
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Hitmonlee",
+					"type": [
+						"FIGHTING",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 50,
+						"ATK": 120,
+						"DEF": 53,
+						"SPD": 87,
+						"SATK": 35,
+						"SDEF": 110
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Blastoise",
+					"type": [
+						"WATER",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 79,
+						"ATK": 83,
+						"DEF": 100,
+						"SPD": 78,
+						"SATK": 85,
+						"SDEF": 105
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Butterfree",
+					"type": [
+						"BUG",
+						"FLYING"
+					],
+					"BaseStats": {
+						"HP": 60,
+						"ATK": 45,
+						"DEF": 50,
+						"SPD": 70,
+						"SATK": 90,
+						"SDEF": 80
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Dragonite",
+					"type": [
+						"DRAGON",
+						"FLYING"
+					],
+					"BaseStats": {
+						"HP": 91,
+						"ATK": 134,
+						"DEF": 95,
+						"SPD": 80,
+						"SATK": 100,
+						"SDEF": 100
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Cloyster",
+					"type": [
+						"ICE",
+						"WATER"
+					],
+					"BaseStats": {
+						"HP": 50,
+						"ATK": 95,
+						"DEF": 180,
+						"SPD": 70,
+						"SATK": 85,
+						"SDEF": 45
+					},
+					"level": 1,
+					"Exp": 0
+				},
+				{
+					"species": "Hitmonchan",
+					"type": [
+						"FIGHTING",
+						"NONE"
+					],
+					"BaseStats": {
+						"HP": 50,
+						"ATK": 105,
+						"DEF": 79,
+						"SPD": 76,
+						"SATK": 35,
+						"SDEF": 110
+					},
+					"level": 1,
+					"Exp": 0
+				}
+			],
+			"XPOS": -1,
+			"YPOS": -1
+		}
+	]
+}
